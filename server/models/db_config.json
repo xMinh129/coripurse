@@ -1,0 +1,10 @@
+{
+  "development": {
+    "debug": true,
+    "mongo": {
+      "host": "ds153380.mlab.com",
+      "port": 53380,
+      "db": "copripurse"
+    }
+  }
+}

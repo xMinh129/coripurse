@@ -1,0 +1,7 @@
+build/
+dist/
+HackCommerce.egg-info
+.idea/*
+server/darkflow
+server/helpers/zhun-tiny-yolo-voc2.pb
+server/helpers/zhun-tiny-yolo-voc2.meta
